@@ -1,0 +1,14 @@
+# Hi there 👋 You are welcome to my Portfolio
+
+## My name is Abiodun Jesudamilola, and I am the Data Expert :blush:
+
+**Here are some ideas to get you started:**
+
+- 🔭 I’m a self Driven Data Analyst/Scientist/Engineer with a growing foundation in data science and product design.
+- 🤔 I’m interested in data science, Machine Learning, AI Agents, analytics and its application to solving business problems.
+- 👯 I’m open to collaborating on data-driven projects — let’s build something impactful.
+- 💬 I work with SQL (MySQL, PostgreSQL, BigQuery), Python, and R, and I also have experience in Product Design (UI/UX, research, prototyping).
+- 🌱 I create visualizations that are not only stunning and visually appealing but also support data-driven decision-making for organizations.
+- 📫 How to reach me:
+- [Email:](damilolaabiodun471@gmail.com)
+
